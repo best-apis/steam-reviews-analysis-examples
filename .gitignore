@@ -1,0 +1,4 @@
+__pycache__/
+*.csv
+.env
+.walmart_state.json
